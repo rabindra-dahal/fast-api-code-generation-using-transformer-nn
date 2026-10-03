@@ -1,0 +1,3 @@
+create a simple fastapi app|from fastapi import FastAPI app = FastAPI()
+build a web application|from fastapi import FastAPI app = FastAPI()
+generate a backend service|from fastapi import FastAPI app = FastAPI()
